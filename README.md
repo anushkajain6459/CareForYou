@@ -17,11 +17,12 @@
 
 ### Contact Us
 
-![Home](/images/Contact Us.png)
+![Home](/images/ContactUs.png)
+
 
 ### Sign Up
 
-![Home](/images/Sign Up.png)
+![Home](/images/SignUp.png)
 
 
 
