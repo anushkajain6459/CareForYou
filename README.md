@@ -7,18 +7,17 @@
 
 ![Home](/images/Home.png)
 
-### Dashboard
-
-![Home](/images/Dashboard.png)
-
 ### Services
 
 ![Home](/images/Services.png)
 
+### Dashboard
+
+![Home](/images/Dashboard.png)
+
 ### Contact Us
 
 ![Home](/images/ContactUs.png)
-
 
 ### Sign Up
 
@@ -28,7 +27,7 @@
 
 ## Features
 
-* login/signup <br>
+* Login/Signup <br>
 * Appointment Booking <br>
 * Chatbot <br>
 * Contact us <br>
